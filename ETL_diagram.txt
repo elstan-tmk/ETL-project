@@ -1,0 +1,1 @@
+Customer -"Client ID" PK INTGender VARCHARAge INT"Annual Income" INT"Marital Status" VARCHAR"Years of Employment" INT"Credit Record"-"ID" INT PK"STATUS" INT
